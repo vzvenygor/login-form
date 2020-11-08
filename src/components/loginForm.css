@@ -1,0 +1,62 @@
+.login-form {
+    margin: 20px auto;
+    padding: 25px 0;
+    width: 400px;
+    text-align: center;
+    background-color:  #44c7fb;
+}
+
+.form {
+    margin: 20px auto;
+    width: 300px;
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 18px;
+    padding: 20px 0;
+    color: rgb(88, 88, 88);
+}
+
+.input {
+    width: 250px;
+    padding: 10px 5px;
+    margin-bottom: 10px;
+    background-color: #e7e6e6;
+    border: none;
+    cursor: pointer;
+}
+
+.label {
+    display: flex;
+    justify-content: left;
+    padding-left: 15px;
+}
+
+.checkbox {
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.label span {
+    font-size: 12px;
+    padding-top: 1px;
+}
+
+.button {
+    width: 250px;
+    padding: 8px 0;
+    background-color:#44c7fb;
+    border: none;
+    cursor: pointer;
+}
+
+.link {
+    padding: 20px 0;
+    font-size: 12px;
+}
+
+.link a {
+    text-decoration: none;
+}
